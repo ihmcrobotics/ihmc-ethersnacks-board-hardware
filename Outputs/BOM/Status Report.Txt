@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:19:47 AM On 12/7/2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [REV1.0] of Project [PCB_F2838_Node.PrjPcb]
+   Generated File[Bill of Materials-PCB_F2838_Node(REV1.0).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:19:51 AM On 12/7/2021

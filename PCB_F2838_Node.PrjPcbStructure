@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=[0] COVER PAGE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[0] COVER PAGE.SchDoc|FileName=[1] BLOCK DIAGRAM.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[0] COVER PAGE.SchDoc|FileName=[2] POWER.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[0] COVER PAGE.SchDoc|FileName=[3] F2838 GPIO.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=[0] COVER PAGE.SchDoc|FileName=[4] F2838 JTAG CLOCK SUP.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=[0] COVER PAGE.SchDoc|FileName=[5] F2838 ADC.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=[0] COVER PAGE.SchDoc|FileName=[6] ETHERCAT.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=[0] COVER PAGE.SchDoc|FileName=[7] SENSORS.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=[0] COVER PAGE.SchDoc|FileName=[8] CONNECTORS MECH.SchDoc|SheetNumber=9
