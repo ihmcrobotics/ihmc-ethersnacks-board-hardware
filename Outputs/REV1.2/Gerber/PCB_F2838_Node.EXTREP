@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB_F2838_Node.GBR   11/14/2022  10:10:03 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 L2 - PWR                                
+.G2                 L3 - GND                                
+.G3                 L4 - SIG HOR                            
+.G4                 L5 - SIG VER                            
+.G5                 L6 - AGND                               
+.G6                 L7 - PWR 3V3A 1V2                       
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM13               Top 3D Body                             
+.GM15               Mechanical 15                           
+.GM16               Top Courtyard                           
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+------------------------------------------------------------------------------------------
