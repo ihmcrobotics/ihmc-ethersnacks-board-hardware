@@ -10,8 +10,8 @@ EtherSNACKS - EtherCAT slave using Texas Instrument F28388 Processor
 EtherSNACKS board is an etherCAT slave based on the F28388D C2000 Real-time microcontroller. It allows any sensors or actuators to be interfaced on EtherCAT using GPIO, ADC, I2C, SPI, UART, CAN...
   
 
-![alt text](DOC_SIMU/ESNACKS_TOP.png "EtherSNACKS Rev 1.2 PCB Top")
-![alt text](DOC_SIMU/20220712_FrontBoard.jpg "EtherSNACKS on a daughter board")
+![alt text](Doc_Images/ESNACKS_TOP.png "EtherSNACKS Rev 1.2 PCB Top")
+![alt text](Doc_Images/20220712_FrontBoard.jpg "EtherSNACKS on a daughter board")
 
 ### Hardware release (production files)
 * Rev 1.0 Initial version 
@@ -50,18 +50,18 @@ EtherSNACKS board is an etherCAT slave based on the F28388D C2000 Real-time micr
 * 58mm x 30.5mm (2.28" X 1.2")
 * Height≈7.75mm
 
-![alt text](DOC_SIMU/ESNACKS_DIM.png "EtherSNACKS Rev 1.2 Dimensions")
+![alt text](Doc_Images/ESNACKS_DIM.png "EtherSNACKS Rev 1.2 Dimensions")
 
 
 ### Examples
 Onboard TDK ICM-42688P IMU on EtherCAT (TwinCAT):
 
-![alt text](DOC_SIMU/TDK.gif "Onboard TDK ICM-42688P IMU")
+![alt text](Doc_Images/TDK.gif "Onboard TDK ICM-42688P IMU")
 
 STIM318 IMU interfaced with EtherSNACKS:
 
-![alt text](DOC_SIMU/STIM318.gif "STIM318 IMU interfaced with EtherSNACKS")
+![alt text](Doc_Images/STIM318.gif "STIM318 IMU interfaced with EtherSNACKS")
 
 EtherSNACKS Testbed for development:
 
-![alt text](DOC_SIMU/20220712_PurpleBoard.jpg "EtherSNACKS Testbed")
+![alt text](Doc_Images/20220712_PurpleBoard.jpg "EtherSNACKS Testbed")
