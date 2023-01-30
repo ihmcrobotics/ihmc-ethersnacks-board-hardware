@@ -7,7 +7,7 @@ This project is  is licensed under the BSD 3-Clause "New" or "Revised" License.
 EtherSNACKS - EtherCAT slave using Texas Instrument F28388 Processor
 ===
 # Overview
-EtherSNACKS board is an etherCAT slave based on the F28388D C2000 Real-time microcontroler. It allows any sensors or actuators to be interfaced on EtherCAT using GPIO, ADC, I2C, SPI, UART, CAN...
+EtherSNACKS board is an etherCAT slave based on the F28388D C2000 Real-time microcontroller. It allows any sensors or actuators to be interfaced on EtherCAT using GPIO, ADC, I2C, SPI, UART, CAN...
   
 
 ![alt text](DOC_SIMU/ESNACKS_TOP.png "EtherSNACKS Rev 1.2 PCB Top")
