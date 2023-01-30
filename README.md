@@ -18,7 +18,7 @@ EtherSNACKS board is an etherCAT slave based on the F28388D C2000 Real-time micr
 
 * Rev 1.1 Released version to fab with 8 layers stackup
 
-* Rev 1.2 Change resistor R77 ADC REF to 100R instead of 1K (not released yet 6/29/2022)
+* Rev 1.2 Change resistor R77 ADC REF to 100R instead of 1K 
 
 ### Features
 * TMS320F28388D 200 MHz dual C28xCPUs and dual CLAs, Connectivity Manager (CM) based on the ARM Cortex-M4 processor 125Mhz
