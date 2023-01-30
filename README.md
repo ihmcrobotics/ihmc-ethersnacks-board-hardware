@@ -1,4 +1,10 @@
-EtherSNACKS - EtherCAT slave using F28388 Processor
+This repository replicates our internal Circuit Board Design Files repository, but only displays a portion of the material and documentation we intend to make public.
+
+Each board has its own folder containing the source files (schematic and layout on Altium), output files (gerber, BOM and pick and place for manufacturing), documents (schematic and layout in PDF files), iamges, configuration files etc.
+
+This project is  is licensed under the BSD 3-Clause "New" or "Revised" License.
+
+EtherSNACKS - EtherCAT slave using Texas Instrument F28388 Processor
 ===
 # Overview
 EtherSNACKS board is an etherCAT slave based on the F28388D C2000 Real-time microcontroler. It allows any sensors or actuators to be interfaced on EtherCAT using GPIO, ADC, I2C, SPI, UART, CAN...
@@ -49,9 +55,11 @@ EtherSNACKS board is an etherCAT slave based on the F28388D C2000 Real-time micr
 Onboard TDK ICM-42688P IMU on EtherCAT (TwinCAT):
 
 ![alt text](DOC_SIMU/TDK.gif "Onboard TDK ICM-42688P IMU")
+
 STIM318 IMU interfaced with EtherSNACKS:
 
 ![alt text](DOC_SIMU/STIM318.gif "STIM318 IMU interfaced with EtherSNACKS")
+
 EtherSNACKS Testbed for development:
 
 ![alt text](DOC_SIMU/TESTBED.jpg "EtherSNACKS Testbed")
