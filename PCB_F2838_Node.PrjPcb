@@ -411,131 +411,255 @@ DocumentPath=Outputs\REV1.1\BOM\Bill of Materials-PCB_F2838_Node(REV1.1).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_F2838_Node\Design Rule Check - PCB_F2838_Node.html
+DocumentPath=Outputs\REV1.2\BOM\Bill of Materials-PCB_F2838_Node(REV1.2).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=PCB_F2838_Node 11-24-2021 9-54-49 AM.WAS
+DocumentPath=Project Outputs for PCB_F2838_Node\Design Rule Check - PCB_F2838_Node.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Outputs\REV1.1\NC Drill\PCB_F2838_Node.DRR
+DocumentPath=PCB_F2838_Node 11-24-2021 9-54-49 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.EXTREP
+DocumentPath=Outputs\REV1.1\NC Drill\PCB_F2838_Node.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G1
+DocumentPath=Outputs\REV1.2\NC Drill\PCB_F2838_Node.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G2
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G3
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G4
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G5
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.G1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G6
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GBL
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.G2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GBO
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G3
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GBP
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.G3
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GBS
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G4
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GD1
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.G4
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GKO
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G5
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GM1
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.G5
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GM13
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.G6
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GM15
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.G6
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GM16
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GPB
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GPT
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GTL
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GTO
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GTP
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GTS
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Outputs\REV1.1\NC Drill\PCB_F2838_Node.LDP
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.REP
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.RUL
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Outputs\REV1.1\NC Drill\PCB_F2838_Node.TXT
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for PCB_F2838_Node(REV1.1).csv
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument33]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Outputs\REV1.1\NC Drill\PCB_F2838_Node.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Outputs\REV1.2\NC Drill\PCB_F2838_Node.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.REP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.REP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Outputs\REV1.1\Gerber\PCB_F2838_Node.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Outputs\REV1.2\Gerber\PCB_F2838_Node.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Outputs\REV1.1\NC Drill\PCB_F2838_Node.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Outputs\REV1.2\NC Drill\PCB_F2838_Node.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for PCB_F2838_Node(REV1.1).csv
+DItemRevisionGUID=
+
+[GeneratedDocument62]
 DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for PCB_F2838_Node(REV1.1).txt
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Outputs\REV1.2\Pick Place\Pick Place for PCB_F2838_Node(REV1.2).csv
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Outputs\REV1.2\Pick Place\Pick Place for PCB_F2838_Node(REV1.2).txt
 DItemRevisionGUID=
 
 [Parameter1]
