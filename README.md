@@ -11,7 +11,7 @@ EtherSNACKS board is an etherCAT slave based on the F28388D C2000 Real-time micr
   
 
 ![alt text](DOC_SIMU/ESNACKS_TOP.png "EtherSNACKS Rev 1.2 PCB Top")
-![alt text](DOC_SIMU/20220712_FrontBoard.jpeg "EtherSNACKS on a daughter board")
+![alt text](DOC_SIMU/20220712_FrontBoard.jpg "EtherSNACKS on a daughter board")
 
 ### Hardware release (production files)
 * Rev 1.0 Initial version 
@@ -63,4 +63,4 @@ STIM318 IMU interfaced with EtherSNACKS:
 
 EtherSNACKS Testbed for development:
 
-![alt text](DOC_SIMU/20220712_PurpleBoard.jpeg "EtherSNACKS Testbed")
+![alt text](DOC_SIMU/20220712_PurpleBoard.jpg "EtherSNACKS Testbed")
