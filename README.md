@@ -1,7 +1,4 @@
 This repository replicates our internal Circuit Board Design Files repository, but only displays a portion of the material and documentation we intend to make public.
-
-Each board has its own folder containing the source files (schematic and layout on Altium), output files (gerber, BOM and pick and place for manufacturing), documents (schematic and layout in PDF files), iamges, configuration files etc.
-
 This project is  is licensed under the BSD 3-Clause "New" or "Revised" License.
 
 EtherSNACKS - EtherCAT slave using Texas Instrument F28388 Processor
@@ -51,6 +48,9 @@ EtherSNACKS board is an etherCAT slave based on the F28388D C2000 Real-time micr
 * Height≈7.75mm
 
 ![alt text](Doc_Images/ESNACKS_DIM.png "EtherSNACKS Rev 1.2 Dimensions")
+
+### Files
+Each board has its own folder containing the source files (schematic and layout on Altium), output files (gerber, BOM and pick and place for manufacturing), documents (schematic and layout in PDF files), images, configuration files for etherCAT etc.
 
 
 ### Examples
